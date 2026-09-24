@@ -1,13 +1,14 @@
 <img align="right" src="./assets/write.gif" width="160" alt="">
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=1&pause=1000&color=E6EDF3&center=false&vCenter=true&repeat=false&width=220&height=42&lines=Miao+Chen" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=1&pause=1000&color=1F2328&center=false&vCenter=true&repeat=false&width=220&height=42&lines=Miao+Chen" height="42" alt="Miao Chen" />
+</picture>
+<img src="./assets/hi.gif" width="50" align="middle" alt="">
 
-# Miao Chen <img src="./assets/hi.gif" width="50" alt="">
+<br/>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=4000&pause=1200&color=C45C26&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Make+it+work,make+it+right,+make+it+fast.)](https://git.io/typing-svg)
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=4000&pause=1200&color=C45C26&center=false&vCenter=false&repeat=true&width=640&height=32&lines=Make+it+work,make+it+right,+make+it+fast." alt="Make it work,make it right, make it fast." />
 
 ## 我的项目
 
@@ -41,7 +42,7 @@ STM32F407 上的闭环温度控制：感知、PID、界面，以及远程看数�
 
 ## 手里的工具 <img src="./assets/hello.gif" width="44" alt="">
 
-<img src="https://skillicons.dev/icons?i=c,python,rust,linux,git&perline=5" alt="C, Python, Rust, Linux, Git" />
+<img src="https://skillicons.dev/icons?i=c,python,rust,linux,git,vscode,java,github,cpp,obsidian&perline=10" alt="C, Python, Rust, Linux, Git, VS Code, Java, GitHub, C++, Obsidian" />
 
 <br/>
 
