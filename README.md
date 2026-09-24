@@ -1,8 +1,8 @@
 <img align="right" src="./assets/write.gif" width="160" alt="">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=1&pause=1000&color=E6EDF3&center=false&vCenter=true&repeat=false&width=220&height=42&lines=Miao+Chen" />
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=1&pause=1000&color=1F2328&center=false&vCenter=true&repeat=false&width=220&height=42&lines=Miao+Chen" height="42" alt="Einell" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=1&pause=1000&color=E6EDF3&center=false&vCenter=true&repeat=false&width=220&height=42&lines=Einell" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=1&pause=1000&color=1F2328&center=false&vCenter=true&repeat=false&width=220&height=42&lines=Einell" height="42" alt="Einell" />
 </picture>
 <img src="./assets/hi.gif" width="50" align="middle" alt="">
 
