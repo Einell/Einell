@@ -1,6 +1,8 @@
+<img align="right" src="./assets/bench.gif" width="280" alt="工作台">
+
 <div align="center">
 
-# Miao Chen
+# Miao Chen <img src="./assets/wave.gif" width="52" alt="">
 
 浙江工业大学 · 杭州
 
@@ -40,7 +42,7 @@ STM32F407 上的闭环温度控制：感知、PID、界面，以及远程看数�
 
 <div align="center">
 
-## 手里的工具
+## 手里的工具 <img src="./assets/chip.gif" width="44" alt="">
 
 <img src="https://skillicons.dev/icons?i=c,python,rust,linux,git&perline=5" alt="C, Python, Rust, Linux, Git" />
 
