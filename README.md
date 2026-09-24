@@ -1,8 +1,8 @@
-<img align="right" src="./assets/bench.gif" width="280" alt="工作台">
+<img align="right" src="./assets/write.gif" width="160" alt="">
 
 <div align="center">
 
-# Miao Chen <img src="./assets/wave.gif" width="52" alt="">
+# Miao Chen <img src="./assets/hi.gif" width="50" alt="">
 
 浙江工业大学 · 杭州
 
